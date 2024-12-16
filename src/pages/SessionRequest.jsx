@@ -70,7 +70,7 @@ function SessionRequest() {
               Awaiting AWS Credits for Deployment
             </div>
             <p className="mt-4 text-gray-600">
-              Contact us at support@interviewplatform.com for deployment inquiries
+              Contact us at amanvermaa9585@gmail.com for deployment inquiries
             </p>
           </div>
         </div>
